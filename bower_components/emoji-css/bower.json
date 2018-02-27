@@ -1,0 +1,31 @@
+{
+  "name": "emoji-css",
+  "version":"1.0.2",
+  "homepage": "https://github.com/wancharle/emoji-css",
+  "authors": [
+    "Wancharle Sebastião Quirino <wancharle@gmail.com>",
+    "Aidan Feldman <aidan.feldman@gmail.com>"
+  ],
+  "description": "emoji via css",
+  "main": "_site/emoji.css",
+  "keywords": [
+    "css",
+    "emoji"
+  ],
+  "license": "Creative Commons",
+  "ignore": [
+    "**/.*",
+    "README.md",
+    "public",
+    "LICENSE",
+    "index.html",
+    "Gemfile*",
+    "emoji.scss",
+    "_emoji",
+    "_config.yml",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
